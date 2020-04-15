@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAcumatica", "..\2020R1\TestAcumatica\TestAcumatica.csproj", "{FF7A1D22-EF2B-4658-8D30-E9E8CD0719A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "..\2020R1\TestProject\TestProject.csproj", "{9D979DD9-E76B-4A50-A120-6E61B9A876DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF7A1D22-EF2B-4658-8D30-E9E8CD0719A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF7A1D22-EF2B-4658-8D30-E9E8CD0719A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF7A1D22-EF2B-4658-8D30-E9E8CD0719A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF7A1D22-EF2B-4658-8D30-E9E8CD0719A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D979DD9-E76B-4A50-A120-6E61B9A876DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D979DD9-E76B-4A50-A120-6E61B9A876DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D979DD9-E76B-4A50-A120-6E61B9A876DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D979DD9-E76B-4A50-A120-6E61B9A876DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {926D5D09-8D7D-435B-A6EA-2E34BBA4450C}
+	EndGlobalSection
+EndGlobal
